@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const { Permissions } = require('discord.js');
-const bdd = require("./bdd/bdd.json");
-const casusbelli = require("./casusbelli/imagerandom.json");
+const bdd = require("./bdd.json");
+const casusbelli = require("./imagerandom.json");
 
 
 const {Client, GatewayIntentBits} = require("discord.js");
