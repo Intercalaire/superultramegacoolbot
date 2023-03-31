@@ -16,7 +16,7 @@ const client = new Client({
   ]
 });
 
-client.login("OTcxNDI5NjcwNDQ2ODI1NDgy.GlnrVy.tbsUQHDzy2hQJAYxdadRQ9_BVBCpHY696uG24s") //obligatoire pour mon bot
+client.login("#mettre le token") //obligatoire pour mon bot
 
 const prefix = "U!";
 /*gère le bot a la base avec son activité*/
