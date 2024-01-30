@@ -1,0 +1,88 @@
+{
+    "film": [
+        {
+            "nom": "Pauvres Créatures",
+            "image": "https://cdn.discordapp.com/attachments/1200150675162681354/1200154879801430086/pauvres-creatures.png?ex=65c52655&is=65b2b155&hm=0aac4c7099bfffa4514dcf06eb2aecdb2dca8a16d4bf582d36ac56d784cbb0af&",
+            "description": "Bella est une jeune femme ramenée à la vie par le brillant et peu orthodoxe Dr Godwin Baxter. Sous sa protection, elle a soif d’apprendre. Avide de découvrir le monde dont elle ignore tout, elle s'enfuit avec Duncan Wedderburn, un avocat habile et débauché, et embarque pour une odyssée étourdissante à travers les continents. Imperméable aux préjugés de son époque, Bella est résolue à ne rien céder sur les principes d’égalité et de libération.",
+            "genre": "Comédie, Drame, Fantastique, Romance, Science Fiction"
+        },
+        {
+            "nom": "Wonka",
+            "image": "https://cdn.discordapp.com/attachments/1200150675162681354/1200154325960360056/cinema-wonka-film-charlie-et-la-chocolaterie-timothee-chalamet-hugh-grant-numero-magazine10.jpg?ex=65c525d1&is=65b2b0d1&hm=86918c7f270230dd19eaaca9975550f0124eb6635d0316a24c8d855bb07697e5&",
+            "description": "Découvrez la jeunesse de ###, l’extraordinaire inventeur, magicien et chocolatier de l’univers féérique de Charlie et la chocolaterie de Roald Dahl, dans le film. Timothée Chalamet incarne ce jeune homme débordant d’idées et déterminé à changer le monde… avec gourmandise ! Cette œuvre haute en couleur, mêlant émotion et humour, prouve que, dans la vie, les rêves peuvent devenir réalité.",
+            "genre": "Aventure, Famille, Fantastique"
+        },
+        {
+            "nom": "Vermines",
+            "image": "https://cdn.discordapp.com/attachments/1200150675162681354/1200155426910638200/image.png?ex=65c526d7&is=65b2b1d7&hm=bc312427035d6247c659c37ffe0fd4978b84596032ca2b84453d2134f81a23a6&",
+            "description": "Face à une invasion d'araignées, les habitants d'un immeuble vont devoir survivre.",
+            "genre": "Epouvante-horreur"
+        },
+        {
+            "nom": "Oppenheimer",
+            "image": "https://cdn.discordapp.com/attachments/1200150675162681354/1200155200275615906/image.png?ex=65c526a1&is=65b2b1a1&hm=1f448374a84cf80e09f19f95b0279ea1cffe715bd34121284d151399c109902a&",
+            "description": "En 1942, convaincus que l’Allemagne nazie est en train de développer une arme nucléaire, les États-Unis initient, dans le plus grand secret, le 'Projet Manhattan' destiné à mettre au point la première bombe atomique de l’histoire. Pour piloter ce dispositif, le gouvernement engage J. Robert ###, brillant physicien, qui sera bientôt surnommé 'le père de la bombe atomique'. C’est dans le laboratoire ultra-secret de Los Alamos, au cœur du désert du Nouveau-Mexique, que le scientifique et son équipe mettent au point une arme révolutionnaire dont les conséquences, vertigineuses, continuent de peser sur le monde actuel…",
+            "genre": "Biopic, Historique, Thriller"
+        },
+        {
+            "nom": "Red Notice",
+            "image": "https://cdn.discordapp.com/attachments/1200150675162681354/1200154988094165066/image.png?ex=65c5266e&is=65b2b16e&hm=703621763f2ab66b0d891f0a782f4ca8905cdbc6046aab9617beae01a6029a4e&",
+            "description": "Lorsqu’Interpol déclenche une Alerte Rouge – destinée à traquer et capturer les criminels les plus recherchés au monde –, le FBI fait appel à son meilleur profiler, John Hartley. Il sillonne la planète jusqu’au jour où il se retrouve embarqué dans un braquage spectaculaire et contraint de s’associer au plus grand voleur d’œuvres d’art au monde Nolan Booth pour… arrêter la voleuse d’œuvres d’art la plus recherchée au monde, « le Fou ».",
+            "genre": "Action, Aventure, Policier"
+        },
+        {
+            "nom": "Le Monde après nous",
+            "image": "https://cdn.discordapp.com/attachments/1200150675162681354/1200154580361695232/le-monde-apres-nous-1.webp?ex=65c5260d&is=65b2b10d&hm=1b8bbea2cb39d4178c2677c7fec1a8e818e284e0fc21b0b411efe3f1e2da682e&",
+            "description": "Une famille qui rêvait d'une pause dans une luxueuse maison de location plonge en plein chaos après une cyberattaque qui neutralise tout appareil – et l'irruption de deux inconnus.",
+            "genre": "thriller psychologique, post-apocalyptique"
+        },
+        {
+            "nom": "Retour vers le futur",
+            "image": "https://cdn.discordapp.com/attachments/1200150675162681354/1200151775232139385/109355518_o.jpg?ex=65c52370&is=65b2ae70&hm=31a17e79ae0ebe972d5c2916b3e6a11fed8a791fbac9323e13ea1375a68b1717&",
+            "description": "1985. Le jeune ### mène une existence anonyme auprès de sa petite amie ###, seulement troublée par sa famille en crise et un proviseur qui serait ravi de l'expulser du lycée. Ami de l'excentrique professeur Emmett Brown, il l'accompagne un soir tester sa nouvelle expérience : le voyage dans le temps via une DeLorean modifiée. La démonstration tourne mal : des trafiquants d'armes débarquent et assassinent le scientifique. Marty se réfugie dans la voiture et se retrouve transporté en 1955. Là, il empêche malgré lui la rencontre de ses parents, et doit tout faire pour les remettre ensemble, sous peine de ne pouvoir exister...",
+            "genre": " Aventure, Comédie, Science Fiction"
+        },
+        {
+            "nom": "Shutter Island",
+            "image": "https://cdn.discordapp.com/attachments/1200150675162681354/1200152316620324874/1200x675mf.jpg?ex=65c523f2&is=65b2aef2&hm=02769152d461797080ae71ae4aaf29cb07a0a83ef6aa4c3e4a605b2bf5047a63&",
+            "description": "En 1954, le marshal ### et son coéquipier ### sont envoyés enquêter sur l'île de Shutter Island, dans un hôpital psychiatrique où sont internés de dangereux criminels. L'une des patientes, Rachel Solando, a inexplicablement disparu. Comment la meurtrière a-t-elle pu sortir d'une cellule fermée de l'extérieur ? Le seul indice retrouvé dans la pièce est une feuille de papier sur laquelle on peut lire une suite de chiffres et de lettres sans signification apparente. Oeuvre cohérente d'une malade, ou cryptogramme ?",
+            "genre": "Thriller"
+        },
+        {
+            "nom": "Top Gun: Maverick",
+            "image": "https://cdn.discordapp.com/attachments/1200150675162681354/1200152533629423787/108120045.webp?ex=65c52425&is=65b2af25&hm=e32d88c42c9f7a18ec96fdbcdd23fa587bf1afdf732697cedd0322fdf0f5bb4b&",
+            "description": "Après avoir été l’un des meilleurs pilotes de chasse de la Marine américaine pendant plus de trente ans, Pete 'Maverick' Mitchell continue à repousser ses limites en tant que pilote d'essai. Il refuse de monter en grade, car cela l’obligerait à renoncer à voler. Il est chargé de former un détachement de jeunes diplômés de l’école Top Gun pour une mission spéciale qu’aucun pilote n'aurait jamais imaginée. Lors de cette mission, Maverick rencontre le lieutenant Bradley “Rooster” Bradshaw, le fils de son défunt ami, le navigateur Nick “Goose” Bradshaw. Face à un avenir incertain, hanté par ses fantômes, Maverick va devoir affronter ses pires cauchemars au cours d’une mission qui exigera les plus grands des sacrifices.",
+            "genre": " Action"
+        },
+        {
+            "nom": "Spider-Man : Across The Spider-Verse",
+            "image": "https://cdn.discordapp.com/attachments/1200150675162681354/1200152720808620074/382883071.jpg?ex=65c52452&is=65b2af52&hm=2b4a049444c7853414ef1f9099d31014c0fb0004803ac862c88da64c278ef946&",
+            "description": "Après avoir retrouvé ###,###, le sympathique héros originaire de Brooklyn, est catapulté à travers le ###, où il rencontre une équipe de ###-Héros chargée d'en protéger l'existence. Mais lorsque les héros s'opposent sur la façon de gérer une nouvelle menace, ### se retrouve confronté à eux et doit redéfinir ce que signifie être un héros afin de sauver les personnes qu'il aime le plus.",
+            "genre": " Action, Aventure, Animation, Fantastique"
+        },
+        {
+            "nom": "Alice au Pays des Merveilles",
+            "image": "https://cdn.discordapp.com/attachments/1200150675162681354/1200152970403250288/unnamed.jpg?ex=65c5248d&is=65b2af8d&hm=9a61ffd627ab692fdc9b51ade60c1d4f8c3c0d08761d1cac92233cbbe32cd60f&",
+            "description": "désormais âgée de 19 ans, retourne dans le monde fantastique qu'elle a découvert quand elle était enfant. Elle y retrouve ses amis le Lapin Blanc, Bonnet Blanc et Blanc Bonnet, le Loir, la Chenille, le Chat du Cheshire et, bien entendu, le Chapelier Fou. ### s'embarque alors dans une aventure extraordinaire où elle accomplira son destin : mettre fin au règne de terreur de la Reine Rouge.",
+            "genre": " Aventure, Famille, Fantastique"
+        },
+        {
+            "nom": "Charlie et la chocolaterie",
+            "image": "https://cdn.discordapp.com/attachments/1200150675162681354/1200153233918808134/076_Charlie_et_la_chocolaterie_08.webp?ex=65c524cc&is=65b2afcc&hm=868470029a5018c2faca9c2cba56a4fa77bf84e69e5c92c4225dbd696c72d757&",
+            "description": " est un enfant issu d'une famille pauvre. Travaillant pour subvenir aux besoins des siens, il doit économiser chaque penny, et ne peut s'offrir les friandises dont raffolent les enfants de son âge. Pour obtenir son comptant de sucreries, il participe à un concours organisé par l'inquiétant ###, le propriétaire de la fabrique de chocolat de la ville. Celui qui découvrira l'un des cinq tickets d'or que ### a caché dans les barres de chocolat de sa fabrication gagnera une vie de sucreries.",
+            "genre": " Aventure, Comédie, Famille, Fantastique"
+        },
+        {
+            "nom": "Je suis une légende",
+            "image": "https://cdn.discordapp.com/attachments/1200150675162681354/1200153421794263151/je-suis-une-legende-2-5a7dddf64c412.jpg?ex=65c524f9&is=65b2aff9&hm=e9ae2deae4cdf1e949a8bb9dda392b64d4de8ae801ab941b3ec5e791eb198a96&",
+            "description": " ### était un savant de haut niveau et de réputation mondiale, mais il en aurait fallu plus pour stopper les ravages de cet incurable et terrifiant virus d'origine humaine. Mystérieusement immunisé contre le mal, ### est aujourd'hui le dernier homme à hanter les ruines de New York. Peut-être le dernier homme sur Terre... Depuis trois ans, il diffuse chaque jour des messages radio dans le fol espoir de trouver d'autres survivants. Nul n'a encore répondu.  Mais ### n'est pas seul. Des mutants, victimes de cette peste moderne - on les appelle les 'Infectés' - rôdent dans les ténèbres... observent ses moindres gestes, guettent sa première erreur. Devenu l'ultime espoir de l'humanité, ### se consacre tout entier à sa mission : venir à bout du virus, en annuler les terribles effets en se servant de son propre sang.  Ses innombrables ennemis lui en laisseront-ils le temps ? Le compte à rebours touche à sa fin...",
+            "genre": " Science Fiction"
+        },
+        {
+            "nom": "Avatar",
+            "image": "https://cdn.discordapp.com/attachments/1200150675162681354/1200153579906928640/718285-avatar-2-a-enfin-sa-date-de-sortie-en-france-1.jpeg?ex=65c5251f&is=65b2b01f&hm=8b0dbcf367c6867400074ffb1b7bb826170a2cf73ce6923cb7352bbd01ecd63c&",
+            "description": "Malgré sa paralysie, un ancien marine immobilisé dans un fauteuil roulant, est resté un combattant au plus profond de son être. Il est recruté pour se rendre à des années-lumière de la Terre, où de puissants groupes industriels exploitent un minerai rarissime destiné à résoudre la crise énergétique sur Terre. Parce que l'atmosphère est toxique pour les humains, ceux-ci ont créé le Programme, qui permet à des pilotes humains de lier leur esprit à un corps biologique commandé à distance, capable de survivre dans cette atmosphère létale. Ce sont des hybrides créés génétiquement en croisant l'ADN humain avec celui des ###*.  Sous sa forme d'###, l’ancien marine peut de nouveau marcher. On lui confie une mission d'infiltration auprès des ###*, devenus un obstacle trop conséquent à l'exploitation du précieux minerai.",
+            "genre": "Aventure, Science Fiction"
+        }
+    ]
+}
