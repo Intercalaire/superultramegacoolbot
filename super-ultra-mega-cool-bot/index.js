@@ -17,7 +17,7 @@ const ban = require("./ban/ban");
 const prefix = "U!";
 
 /*gère le bot a la base avec son activité*/
-client.login("OTcxNDI5NjcwNDQ2ODI1NDgy.GoM3XF.B5McUPUh__g5KKt4P1bEOcCXUkhTm0zBhZ2vm0");
+client.login("token ici");
 client.on("ready", tokenetpresence.activité);
 
 client.on('shardError', error => {
